@@ -24,7 +24,7 @@ In a terminal or command window, navigate to the top-level project directory fin
 ipython notebook finding_donors.ipynb
 or
 
-jupyter notebook finding_donors.ipynb
+jupyter notebook <a href = https://github.com/RashaAlamoud/Finding-Donors-for-CharityML-Supervised-Learning-/blob/main/finding_donors.ipynb> finding_donors.ipynb</a>
 This will open the iPython Notebook software and project file in your browser.
 
 # Data
