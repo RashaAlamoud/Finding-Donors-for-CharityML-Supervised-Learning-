@@ -6,10 +6,12 @@
 This project requires Python 3 and the following Python libraries installed:
 
 - <a href = https://numpy.org/> NumPy</a>
+- <a href = https://pandas.pydata.org/> Pandas</a>
 
-- Pandas
-- matplotlib
-- scikit-learn
+-<a href = https://matplotlib.org/> matplotlib</a> 
+
+- <a href =https://scikit-learn.org/stable/> scikit-learn</a>
+
 
  You will also need to have software installed to run and execute an <a href = http://ipython.org/notebook.html> iPython Notebook</a>
  
