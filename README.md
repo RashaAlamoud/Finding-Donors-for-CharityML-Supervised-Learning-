@@ -5,7 +5,8 @@
 
 This project requires Python 3 and the following Python libraries installed:
 
-- NumPy
+- <a href = https://numpy.org_/> NumPy</a>
+
 - Pandas
 - matplotlib
 - scikit-learn
