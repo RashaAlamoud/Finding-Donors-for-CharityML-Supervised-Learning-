@@ -5,7 +5,7 @@
 
 This project requires Python 3 and the following Python libraries installed:
 
-- <a href = https://numpy.org_/> NumPy</a>
+- <a href = https://numpy.org/> NumPy</a>
 
 - Pandas
 - matplotlib
